@@ -1,0 +1,28 @@
+{
+  "name": "visitors--log-management-system-ui",
+  "version": "1.0.0",
+  "description": "to consume built API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellKwesiEhiawey/Visitors--Log-Management-System-UI.git"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellKwesiEhiawey/Visitors--Log-Management-System-UI/issues"
+  },
+  "homepage": "https://github.com/MaxwellKwesiEhiawey/Visitors--Log-Management-System-UI#readme",
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "deepmerge": "^4.2.2",
+    "sass": "^1.32.4",
+    "sass-loader": "^8.0.2"
+  },
+  "dependencies": {
+    "vuetify": "^2.4.2"
+  }
+}
